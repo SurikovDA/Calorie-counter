@@ -1,7 +1,6 @@
 # java-sprint1-hw
 First sprint homework
 
-                               Техническое задание
 
 Постановка задачи:
 
